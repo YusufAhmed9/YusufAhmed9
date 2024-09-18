@@ -2,15 +2,15 @@
 <h3 align="center">A Computer Science Student at Ain Shams University</h3>
 
 
-# 🌱 ***I’m currently learning***:
+# 🌱 ***I’m currently learning***
 - Java
 - MySQL
 
-# 📄 ***Know about my experiences***: 
+# 📄 ***Know about my experiences***
 - I was a competitive programmer for almost a year
 - participated in Egyptian Collegiate Programming Contest
 
-# 🔧 ***Projects I made***:
+# 🔧 ***Projects I made***
 - Exam System using procedural programming in CPP
 - Loan prediction using random forest model
 - Wordle game in Python
