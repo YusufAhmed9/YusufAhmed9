@@ -1,33 +1,59 @@
-<h1 align="center">Hi there, I'm Yusuf Ahmed</h1>
-<h3 align="center">A Computer Science Student at Ain Shams University</h3>
+<h1 align="center">
+🌟 I'm Yusuf!
+</h1>
 
+<h4 align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aspiring Software Engineer - Computer Science Student 💻
+</h4>
+<br>
 
-# 🌱 ***I’m currently learning***
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+### 🚀 About me
+ - 🎓 I'm a dedicated student pursuing a bachelor's degree in computer science at Ain Shams University, Faculty of Computer and Information Science, and I expect to graduate in 2027.
+ - 💻 I'm passionate about the world of AI, and I have a strong interest in data structures, algorithms, and data-focused careers.
+ - 💡 I spent nearly a year as a competitive programmer and took part in the Egyptian Collegiate Programming Contest (ECPC).
+ - 
+---
 
-# 📄 ***Know about my experiences***
-- I was a competitive programmer for almost a year
-- participated in Egyptian Collegiate Programming Contest
+### ⌨ Programming Languages
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="100" height="100"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/java/java-original.svg" alt="java" width="100" height="100"/> </a>
 
-# 🔧 ***Projects I made***
+---
+
+ ### 🍀 MISC
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/> </a>
+
+---
+
+### 🌱 I’m currently improving
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/java/java-original.svg" alt="java" width="100" height="100"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/> </a>
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+<a href="https://twitter.com/yusufahmeda1" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/twitter/twitter-original.svg" alt="yusufahmeda1" height="85" width="85" /></a>
+<a href="https://linkedin.com/in/yusufahmed99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufahmed99" height="85" width="85" /></a>
+<a href="https://www.leetcode.com/yusufahmed99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yusufahmed99" height="85" width="85" /></a>
+</p>
+
+---
+
+### 🔧 Projects I made
 - Exam System using procedural programming in CPP
 - Loan prediction using random forest model
 - Wordle game in Python
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yusufahmeda1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yusufahmeda1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yusufahmed99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufahmed99" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yusufahmed99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yusufahmed99" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+---
+### ✨ My Github states
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yusufahmed9&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufahmed9&layout=donut&langs_count=8&card_width=220&theme=radical" />
 </a>
+ <img height=200 src="https://github-readme-streak-stats.herokuapp.com?user=yusufahmed9&theme=radical&card_width=755" />
+</p>
