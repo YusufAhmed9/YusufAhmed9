@@ -11,7 +11,6 @@
  - 🎓 I'm a dedicated student pursuing a bachelor's degree in computer science at Ain Shams University, Faculty of Computer and Information Science, and I expect to graduate in 2027.
  - 💻 I'm passionate about the world of AI, and I have a strong interest in data structures, algorithms, and data-focused careers.
  - 💡 I spent nearly a year as a competitive programmer and took part in the Egyptian Collegiate Programming Contest (ECPC).
- - 
 ---
 
 ### ⌨ Programming Languages
