@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aspiring Software Engineer - Computer Science Student 💻
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aspiring Computer Science Student 💻
 </h4>
 <br>
 
@@ -27,8 +27,9 @@
 ---
 
 ### 🌱 I’m currently improving
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/java/java-original.svg" alt="java" width="100" height="100"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="100" height="100"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/java/java-original.svg" alt="java" width="100" height="100"/> </a>
 
 ---
 
