@@ -26,13 +26,6 @@
 
 ---
 
-### 🌱 I’m currently improving
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="100" height="100"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/java/java-original.svg" alt="java" width="100" height="100"/> </a>
-
----
-
 ### 🌐 Connect with me
 <p align="left">
 <a href="https://twitter.com/yusufahmeda1" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/twitter/twitter-original.svg" alt="yusufahmeda1" height="85" width="85" /></a>
