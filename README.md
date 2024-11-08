@@ -39,14 +39,3 @@
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/YusufAhmed99/)
   
  </div>
-<div align="center">
- <h3>✨ My Github states</h3>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yusufahmed9&theme=radical" />
- </a>
- <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufahmed9&layout=donut&langs_count=8&card_width=220&theme=radical" />
- </a>
- <img height=200 src="https://github-readme-streak-stats.herokuapp.com?user=yusufahmed9&theme=radical&card_width=755" />
- </p>
-</div>
